@@ -1,0 +1,34 @@
+.container {
+  width: 560px;
+  margin: auto;
+}
+form {
+  text-align: center;
+}
+.forecast {
+  text-align: center;
+  font-size: 48px;
+  margin-bottom: 30px;
+}
+ul {
+  list-style: none;
+}
+li:nth-child(2n + 1) {
+  background-color: aliceblue;
+}
+li {
+  max-width: 200px;
+  text-align: center;
+  padding: 10px 0;
+  margin: auto;
+}
+input {
+  height: 29px;
+}
+select {
+  height: 35px;
+}
+button {
+  padding: 8px;
+}
+
